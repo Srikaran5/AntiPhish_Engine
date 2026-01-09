@@ -98,3 +98,4 @@ widgetsnbextension==4.0.10
 xxhash==3.4.1
 yellowbrick==1.5
 zipp==3.18.1
+gunicorn==21.2.0
